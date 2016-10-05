@@ -1,0 +1,8 @@
+C:\Users\robert\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\BrewSpinDome\bin\Release\ASCOM.BrewSpin.Dome.dll.config
+C:\Users\robert\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\BrewSpinDome\bin\Release\ASCOM.BrewSpin.Dome.dll
+C:\Users\robert\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\BrewSpinDome\bin\Release\ASCOM.BrewSpin.Dome.pdb
+C:\Users\robert\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\BrewSpinDome\obj\Release\ASCOM.BrewSpin.Resources.resources
+C:\Users\robert\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\BrewSpinDome\obj\Release\ASCOM.BrewSpin.SetupDialogForm.resources
+C:\Users\robert\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\BrewSpinDome\obj\Release\BrewSpinDome.vbproj.GenerateResource.Cache
+C:\Users\robert\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\BrewSpinDome\obj\Release\ASCOM.BrewSpin.Dome.dll
+C:\Users\robert\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\BrewSpinDome\obj\Release\ASCOM.BrewSpin.Dome.pdb

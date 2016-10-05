@@ -1,0 +1,34 @@
+
+Occasional misreads of data from dome serial.
+
+   Flush serial in Arduino?
+
+Crash when configuring VENTTIME on connection to driver. 
+Maybe this is the Arduino failing to connect sometimes?
+
+Use LastStatus string if not connected
+
+Get Status process working
+
+Add sneak peak back in
+
+Halt - needs to restore Open/Close shutter button colors
+   restore power/open image, flashing light image
+   Works OK when actually opening; fails when waiting for powerup.
+
+Implement driver setting/config screen. 
+    List of com ports
+	IP Address / Listen port
+
+Still problems when can't connect to shutter arduino.
+
+Run string param to show Test, POS#
+
+Debug versus Production versions of driver
+Change the identification of the developmental one so it is different than the 
+production one. In other words, it needs to be a different driver (has different 
+class/interface IDs/GUIDs and different dotted name). Then you can even flip back and 
+forth with ACP as well as your other test tools. At a minimum, add "2" or "New" 
+to the end of the dotted name and regen all of the GUIDs (library, interface, and 
+class IDs) so it's independent of the other one.
+

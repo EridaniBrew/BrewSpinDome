@@ -1,0 +1,11 @@
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\TestCode\obj\Debug\TestCode.vbprojResolveAssemblyReference.cache
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\TestCode\obj\Debug\TestCode.Form1.resources
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\TestCode\obj\Debug\TestCode.Resources.resources
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\TestCode\obj\Debug\TestCode.vbproj.GenerateResource.Cache
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\TestCode\bin\Debug\TestCode.exe.config
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\TestCode\bin\Debug\TestCode.exe
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\TestCode\bin\Debug\TestCode.pdb
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\TestCode\bin\Debug\TestCode.xml
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\TestCode\obj\Debug\TestCode.exe
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\TestCode\obj\Debug\TestCode.xml
+C:\Users\erida\Dropbox\BrewSky\Programs\BrewSpinDome\BrewSpinDome\TestCode\obj\Debug\TestCode.pdb

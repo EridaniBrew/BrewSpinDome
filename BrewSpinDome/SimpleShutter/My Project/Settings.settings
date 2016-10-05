@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="VentTime" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="ReverseUpperMotor" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ReverseLowerMotor" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FormLeft" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="FormTop" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="LogDialogLeft" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="LogDialogTop" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+    <Setting Name="LogDialogWidth" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">596</Value>
+    </Setting>
+    <Setting Name="LogDialogHeight" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">470</Value>
+    </Setting>
+    <Setting Name="UpperShutterTimeout" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">45000</Value>
+    </Setting>
+    <Setting Name="LowerShutterTimeout" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">20000</Value>
+    </Setting>
+    <Setting Name="HeartbeatTimeMsec" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">3000</Value>
+    </Setting>
+    <Setting Name="MotorCheckTimeMsec" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="UpperMotorSpeed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1023</Value>
+    </Setting>
+    <Setting Name="LowerMotorSpeed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1023</Value>
+    </Setting>
+    <Setting Name="LogVerbose" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

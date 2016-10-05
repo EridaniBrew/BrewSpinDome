@@ -1,0 +1,10 @@
+Slewing East/West - click again to halt
+
+Remove # from Pos
+
+Long West home, ends up over 491.
+
+CountTics doesn't work at all, getting 57, 78,...
+Doesn't update profile?
+
+Add buglist to project

@@ -1,0 +1,3 @@
+float I_current_value;
+ I_current_value = (analogRead(cspin[0])*5*11370/1500); // get I in milliamps
+ I_current_value = I_current_value/1000 ; // convert to A

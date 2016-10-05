@@ -1,0 +1,14 @@
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\bin\Debug\TestEnhancedPort.exe
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\bin\Debug\TestEnhancedPort.pdb
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\bin\Debug\TestEnhancedPort.xml
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\bin\Debug\EnhancedSerialPort1.dll
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\bin\Debug\EnhancedSerialPort1.pdb
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\bin\Debug\EnhancedSerialPort1.xml
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\obj\Debug\TestEnhancedPort.TestEnhanced.resources
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\obj\Debug\TestEnhancedPort.frmConfigScrn.resources
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\obj\Debug\TestEnhancedPort.Resources.resources
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\obj\Debug\TestEnhancedPort.vbproj.GenerateResource.Cache
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\obj\Debug\TestEnhancedPort.exe
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\obj\Debug\TestEnhancedPort.xml
+C:\Users\Public\CDROM\4thEdition\Chapter5\VisualStudio2008\EnhancedSerialPort\TestEnhancedPort\obj\Debug\TestEnhancedPort.pdb

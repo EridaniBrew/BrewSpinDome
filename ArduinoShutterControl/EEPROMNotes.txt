@@ -1,0 +1,7 @@
+Vent time Int32
+
+DirectionReverse[2] Byte
+
+motor timeouts are handled in app/driver, not in Arduino. Only vent time is in Arduino
+
+Speed has been removed
